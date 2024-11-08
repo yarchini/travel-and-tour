@@ -1,0 +1,56 @@
+body {
+    background-color: AntiqueWhite;
+    padding: 10px 10px;
+}
+
+a:link { 
+    text-decoration: none; 
+    color:black;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color:black;
+}
+
+a:hover { 
+    text-decoration: underline; 
+    color:blue;
+}
+
+a:active { 
+    text-decoration: underline; 
+    color:blue;
+}
+
+.table table-borderless {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.tr-main{
+    text-align:center;
+    color:black;
+    font-family:Arial;
+}
+
+h1{
+    text-align:center;
+    color:#191970;
+    font-weight:bold;
+    font-size:35px; 
+    border:gold solid 5px; 
+    padding: 5px; 
+    background-color:#E6E6FA;
+}
+
+td{
+    font-family:Arial;
+    font-size: 18px;
+}
+
+img{
+    border-radius:35%;
+    width:170px;
+    height:150px;
+}
